@@ -1,0 +1,5 @@
+Input Filename: input.txt
+Output Filename: output.txt
+Upper Case / Lower Case Word: Upper
+Auto Correct: lorem - yey
+Auto Correct Case Sensitive: Yes
